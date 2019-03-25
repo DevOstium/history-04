@@ -1,0 +1,19 @@
+/* Footer */
+footer.site-footer {
+    padding: 0 1.875em; 
+    clear: both;
+    background-color: #25284b;
+    float:right;
+    width:80%;
+    position: fixed;
+    bottom: 0;
+    right:0;
+}
+    footer.site-footer .footer-inner {
+        color: #78909c;
+        font-size: 14px;
+        line-height: 1.5;
+        padding: 1.45em 1.125em; 
+    }
+        footer.site-footer .footer-inner a {
+            color: #6a7074; }
